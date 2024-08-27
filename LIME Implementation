@@ -1,2 +1,4 @@
 Implementation of LIME 
-Lime is an algorithl that can explain the prediction of any classifier by approximating it locally with an interpretable model
+Lime is an algorithm that can explain the prediction of any classifier by approximating it locally with an interpretable model. 
+This allows LIME to build a simpler, interpretable model that approximates the behavior of a more complex model locally. 
+LIME helps by identifying which features, such as genetic markers or clinical history, are most influential in a prediction. 
