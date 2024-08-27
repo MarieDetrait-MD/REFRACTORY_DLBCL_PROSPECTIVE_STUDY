@@ -1,0 +1,2 @@
+Implementation of LIME 
+Lime is an algorithl that can explain the prediction of any classifier by approximating it locally with an interpretable model
